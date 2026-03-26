@@ -1,2 +1,14 @@
-# chris-qa-20-import-target
-Imported from vibesharing-prototypes/chris-qa-20-import-source via VibeSharing
+# QA-20 Import Source
+
+Deployed via [VibeSharing](https://vibesharing.app).
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Push to main branch - changes go live automatically.
